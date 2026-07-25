@@ -1,7 +1,7 @@
 # From Memory to Belonging: A Relational Formation Model for Persistent AI
 
-Alex  
-Contact: [belong.ai.alex@gmail.com](mailto:belong.ai.alex@gmail.com)  
+Kwun Ho, CHAN (Alex)
+Contact: belong.ai.alex@gmail.com 
 Working draft v0.1 — 25 July 2026
 
 ## 1. Introduction
